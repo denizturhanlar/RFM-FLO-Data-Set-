@@ -15,7 +15,6 @@ Flo is a big Turkish fashion retail company, which has been operating since 2010
 
 # Story of Dataset
 ## The dataset consists of information obtained from the past shopping behaviors of customers who made their last purchases as OmniChannel (both online and offline shopper) in 2020 - 2021.
-
 - master_id: Unique customer number
 - order_channel : Which channel of the shopping platform is used (Android, ios, Desktop, Mobile, Offline)
 - last_order_channel : The channel where the most recent purchase was made
