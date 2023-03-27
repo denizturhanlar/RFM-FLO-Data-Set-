@@ -4,6 +4,7 @@ RFM has 3 metrics:
 - Recency: It shows when customers last received service from the firm.
 - Frequency: It shows how often the customers receives service from the firm.
 - Monetary : It shows how much money the customer spends on the service received from the company. RFM score based on these three metrics
+
 ![rfm segmentation](https://user-images.githubusercontent.com/126112467/227967482-56f4ca99-2341-4b0a-bcc5-0ec5d124f322.png)
 
 # FLO
