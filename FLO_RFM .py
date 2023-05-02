@@ -26,39 +26,14 @@
 ###############################################################
 # TASKS
 # TASK 1: Data Understanding and Preparing 
-           # 1. read the flo_data_20K.csv 
-           # 2. In data set
-                     # a. İlk 10 gözlem,
-                     # b. Değişken isimleri,
-                     # c. Betimsel istatistik,
-                     # d. Boş değer,
-                     # e. Değişken tipleri, incelemesi yapınız.
-           # 3. Omnichannel müşterilerin hem online'dan hemde offline platformlardan alışveriş yaptığını ifade etmektedir. Herbir müşterinin toplam
-           # alışveriş sayısı ve harcaması için yeni değişkenler oluşturun.
-           # 4. Değişken tiplerini inceleyiniz. Tarih ifade eden değişkenlerin tipini date'e çeviriniz.
-           # 5. Alışveriş kanallarındaki müşteri sayısının, ortalama alınan ürün sayısının ve ortalama harcamaların dağılımına bakınız.
-           # 6. En fazla kazancı getiren ilk 10 müşteriyi sıralayınız.
-           # 7. En fazla siparişi veren ilk 10 müşteriyi sıralayınız.
-           # 8. Veri ön hazırlık sürecini fonksiyonlaştırınız.
+# TASK 2: Calculate RFM Metrics 
+# TASK 3: Calculate RF ve RFM Scores 
+# TASK 4: Identification of RF Scores as Segments
+# TASK 5: It's time for action!
+# TASK 6: Functionalize the entire process.
 
-# GÖREV 2: RFM Metriklerinin Hesaplanması
-# GÖREV 3: RF ve RFM Skorlarının Hesaplanması
-# GÖREV 4: RF Skorlarının Segment Olarak Tanımlanması
-# GÖREV 5: Aksiyon zamanı!
-           # 1. Segmentlerin recency, frequnecy ve monetary ortalamalarını inceleyiniz.
-           # 2. RFM analizi yardımı ile 2 case için ilgili profildeki müşterileri bulun ve müşteri id'lerini csv ye kaydediniz.
-                   # a. FLO bünyesine yeni bir kadın ayakkabı markası dahil ediyor. Dahil ettiği markanın ürün fiyatları genel müşteri tercihlerinin üstünde. Bu nedenle markanın
-                   # tanıtımı ve ürün satışları için ilgilenecek profildeki müşterilerle özel olarak iletişime geçeilmek isteniliyor. Sadık müşterilerinden(champions,loyal_customers),
-                   # ortalama 250 TL üzeri ve kadın kategorisinden alışveriş yapan kişiler özel olarak iletişim kuralacak müşteriler. Bu müşterilerin id numaralarını csv dosyasına
-                   # yeni_marka_hedef_müşteri_id.cvs olarak kaydediniz.
-                   # b. Erkek ve Çoçuk ürünlerinde %40'a yakın indirim planlanmaktadır. Bu indirimle ilgili kategorilerle ilgilenen geçmişte iyi müşteri olan ama uzun süredir
-                   # alışveriş yapmayan kaybedilmemesi gereken müşteriler, uykuda olanlar ve yeni gelen müşteriler özel olarak hedef alınmak isteniliyor. Uygun profildeki müşterilerin id'lerini csv dosyasına indirim_hedef_müşteri_ids.csv
-                   # olarak kaydediniz.
-
-
-# GÖREV 6: Tüm süreci fonksiyonlaştırınız.
 ###############################################################
-# GÖREV 1: Veriyi  Hazırlama ve Anlama (Data Understanding)
+# TASK 1: Data Understanding
 
 # let's import the libraries
 import pandas as pd
