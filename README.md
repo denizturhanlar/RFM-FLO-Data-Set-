@@ -12,6 +12,7 @@ Flo is a big Turkish fashion retail company, which has been operating since 2010
 
 ![flo](https://user-images.githubusercontent.com/126112467/227967873-481e7bf3-b4f0-4aa7-a6ea-daff872a2de7.png)
 
+
 # Business Problem
 FLO aims to divide its customer base into segments and devise marketing strategies tailored to each of these segments. To achieve this, customer behaviors will be analyzed and used to create clusters of customers with similar behaviors.
 
